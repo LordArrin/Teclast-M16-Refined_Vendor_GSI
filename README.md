@@ -35,7 +35,7 @@ https://sourceforge.net/projects/treblerom/files/crDRom11/
 | Shipped Android Version | 8.0 x64                                                                                                                        |
 | Storage                 | 128 GB EMMC5.1                                                                                                                 |
 | Battery                 | Non-removable 7500 mAh battery                                                                                                 |
-| Display                 | 1920 x 1080 pixels, 5:8 ratio (~190 ppi density)                                                                               |
+| Display                 | 11.6" IPS LCD1920 x 1080 pixels                                                                                                |
 | Camera                  | 8MP + 2MP withot LED and legacy Camera2Api support                                                                             | 
 
 ## Device picture
